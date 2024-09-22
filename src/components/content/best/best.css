@@ -1,0 +1,32 @@
+.bestSelling-content {
+    padding: 1rem;
+    text-align: center;
+}
+
+.bestSelling-content button{
+    padding: .2rem;
+    margin: .5rem;
+    cursor: pointer;
+}
+
+
+.card-container {
+    margin-top: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+
+.card img:hover {
+    transform: scale(1.05); /* Slightly scale up on hover */
+}
+
+.card img {
+    flex: 1;
+    height: 13rem; /* Fixed height */
+    width: 20rem; /* Fixed width */
+    object-fit: cover; /* Maintain aspect ratio and cover the area */
+}

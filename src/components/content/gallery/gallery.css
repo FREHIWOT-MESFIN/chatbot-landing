@@ -1,0 +1,17 @@
+.gallery-con{
+    text-align: center;
+}
+.img-container {
+    padding: 0.2rem;
+    display: flex; 
+    justify-content: center;
+    gap: 0.2rem;
+    flex-wrap: wrap; 
+}
+
+.img-container img {
+    width: 25rem; 
+    height: auto; 
+    max-height: 20rem; 
+    object-fit: cover; 
+}

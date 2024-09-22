@@ -1,0 +1,71 @@
+{
+    "companyInfo": {
+      "name": "Sweet Treats Donuts",
+      "description": "Your one-stop shop for the freshest and most delicious donuts in town!",
+      "location": "123 Donut Ave, Sweet City, SC",
+      "contact": {
+        "phone": "+1-555-0123",
+        "email": "info@sweettreats.com",
+        "website": "www.sweettreats.com"
+      }
+    },
+    "menu": [
+      {
+        "name": "Classic Glazed",
+        "description": "A timeless favorite, light and fluffy with a sweet glaze.",
+        "price": 1.5
+      },
+      {
+        "name": "Chocolate Frosted",
+        "description": "Deliciously rich chocolate frosting on a soft donut.",
+        "price": 1.75
+      },
+      {
+        "name": "Maple Bacon",
+        "description": "Sweet maple glaze topped with crispy bacon bits.",
+        "price": 2.0
+      },
+      {
+        "name": "Sprinkle Delight",
+        "description": "A colorful treat with rainbow sprinkles on top.",
+        "price": 1.5
+      },
+      {
+        "name": "Boston Cream",
+        "description": "Filled with creamy custard and topped with chocolate.",
+        "price": 2.25
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What are your store hours?",
+        "answer": "We are open Monday to Saturday from 7 AM to 7 PM and Sunday from 8 AM to 5 PM."
+      },
+      {
+        "question": "Do you offer gluten-free options?",
+        "answer": "Yes, we offer a selection of gluten-free donuts. Please check our menu or ask our staff for details."
+      },
+      {
+        "question": "Can I place an order for a large event?",
+        "answer": "Absolutely! You can place custom orders for events. Please contact us at least 48 hours in advance."
+      },
+      {
+        "question": "Do you have a loyalty program?",
+        "answer": "Yes! Sign up for our loyalty program and earn points for every purchase, which can be redeemed for discounts."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept cash, credit/debit cards, and mobile payment options."
+      }
+    ],
+    "greeting": {
+      "text": "Welcome to Sweet Treats Donuts! How can I help you today?",
+      "options": [
+        "Tell me about your donuts.",
+        "What are your store hours?",
+        "Do you have any specials today?",
+        "Help me place an order."
+      ]
+    }
+  }
+  

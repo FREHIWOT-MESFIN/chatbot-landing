@@ -1,0 +1,17 @@
+.about-container{
+    text-align: center;
+    background-color: pink;
+    margin-block: 2rem;
+    padding: 2rem;
+}
+.about-container p{
+    padding: 1rem;
+    margin: auto;
+    width: 50%;
+}
+.about-container button{
+    color: white;
+    background-color: black;
+    border: none;
+    padding: .4rem;
+}

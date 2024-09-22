@@ -1,0 +1,17 @@
+.footer-container{
+    background: gainsboro;
+    text-align: center;
+}
+
+.footer-container i{
+    font-size: 1.2rem;
+    margin-left: .5rem;
+}
+
+.footer-container .socials{
+    margin-bottom: 1rem;
+}
+
+.footer-container p{
+    padding-bottom: .5rem;
+}
